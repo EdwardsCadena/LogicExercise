@@ -1,0 +1,13 @@
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\bin\Debug\netcoreapp3.1\NumberRoulette.exe
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\bin\Debug\netcoreapp3.1\NumberRoulette.deps.json
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\bin\Debug\netcoreapp3.1\NumberRoulette.runtimeconfig.json
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\bin\Debug\netcoreapp3.1\NumberRoulette.runtimeconfig.dev.json
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\bin\Debug\netcoreapp3.1\NumberRoulette.dll
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\bin\Debug\netcoreapp3.1\NumberRoulette.pdb
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.csprojAssemblyReference.cache
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.AssemblyInfoInputs.cache
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.AssemblyInfo.cs
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.dll
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.pdb
+C:\Users\Ed\Documents\Repositorios\LogicExercise\NumberRoulette\NumberRoulette\obj\Debug\netcoreapp3.1\NumberRoulette.genruntimeconfig.cache
