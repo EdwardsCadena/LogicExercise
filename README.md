@@ -8,4 +8,8 @@
  	 the distance between any two neighboring numbers is equal (note that 0 and n - 1 are
   	 neighboring, too).
  	 Given n and firstNumber, find the number which is written in the radially opposite position
-     to firstNumber.
+     	 to firstNumber.
+	
+##### Descending patron #####
+	
+	You a given a number N from 1 to 10. You need to print the pattern for the given value of N.
